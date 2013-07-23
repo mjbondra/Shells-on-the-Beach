@@ -1,0 +1,11 @@
+## controller->method AS {ROOT}
+## controller->method AS {arg}
+## controller->method AS {arg_1;arg_2;arg_...;arg_n}
+## static->file AS {ROOT}
+## static->file AS {arg}
+## static->file AS {arg_1;arg_2;arg_...;arg_n}
+## controller function FROM {args}
+## echo "hello world" FROM %
+
+static sotb.txt FROM {ROOT}
+test sotb_command FROM {command;%}

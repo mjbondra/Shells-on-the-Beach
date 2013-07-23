@@ -1,0 +1,26 @@
+
+########################################################
+########################################################
+##                                                    ##
+##     .dMMMb  dMP dMP dMMMMMP dMP     dMP    .dMMMb  ##
+##    dMP" VP dMP dMP dMP     dMP     dMP    dMP" VP  ##
+##    VMMMb  dMMMMMP dMMMP   dMP     dMP     VMMMb    ##
+##  dP .dMP dMP dMP dMP     dMP     dMP    dP .dMP    ##
+##  VMMMP" dMP dMP dMMMMMP dMMMMMP dMMMMMP VMMMP"     ##
+##                                                    ##
+##     .aMMMb  dMMMMb      dMMMMMMP dMP dMP dMMMMMP   ##
+##    dMP"dMP dMP dMP        dMP   dMP dMP dMP        ##
+##   dMP dMP dMP dMP        dMP   dMMMMMP dMMMP       ##
+##  dMP.aMP dMP dMP        dMP   dMP dMP dMP          ##
+##  VMMMP" dMP dMP        dMP   dMP dMP dMMMMMP       ##
+##                                                    ##
+##      dMMMMb  dMMMMMP .aMMMb  .aMMMb  dMP dMP       ##
+##     dMP"dMP dMP     dMP"dMP dMP"VMP dMP dMP        ##
+##    dMMMMK" dMMMP   dMMMMMP dMP     dMMMMMP         ##
+##   dMP.aMF dMP     dMP dMP dMP.aMP dMP dMP          ##
+##  dMMMMP" dMMMMMP dMP dMP  VMMMP" dMP dMP  v.0.5    ##
+##                                                    ##
+########################################################
+########################################################
+##  A shell script framework
+
